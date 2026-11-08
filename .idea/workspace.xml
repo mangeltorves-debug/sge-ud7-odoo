@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbadee60-5023-4cf8-90f6-10ff6358c195" name="Changes" comment="feat: paso 3 completado y primer cambio de readme">
+    <list default="true" id="dbadee60-5023-4cf8-90f6-10ff6358c195" name="Changes" comment="&quot;docs: añade documentacion de usuarios, politicas de minimo privilegio y permisos&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios/usuarios-grupos-permisos.md" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios/usuarios-grupos-permisos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs: añadido pdf diapositiva instalacion y añadido .md errores-instalacion" />
     <MESSAGE value="feat: paso 3 completado y primer cambio de readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: paso 3 completado y primer cambio de readme" />
+    <MESSAGE value="&quot;docs: añade documentacion de usuarios, politicas de minimo privilegio y permisos&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;docs: añade documentacion de usuarios, politicas de minimo privilegio y permisos&quot;" />
   </component>
 </project>
