@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbadee60-5023-4cf8-90f6-10ff6358c195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/instalacion/Proceso de Instalación de Odoo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instalacion/errores-instalacion.md" beforeDir="false" afterPath="$PROJECT_DIR$/instalacion/errores-instalacion.md" afterDir="false" />
-    </list>
+    <list default="true" id="dbadee60-5023-4cf8-90f6-10ff6358c195" name="Changes" comment="docs: añadido pdf diapositiva instalacion y añadido .md errores-instalacion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,23 +31,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0540335769567415" />
-      <entry key="MS500" value="1.557869661162721" />
-      <entry key="S2" value="1.8653789097688054" />
-      <entry key="S5" value="2.0452400888437037" />
-      <entry key="S10" value="2.47402293166397" />
-      <entry key="S30" value="3.9323028921778933" />
-      <entry key="S60" value="5.009383537444251" />
-      <entry key="M2" value="5.844464899533816" />
-      <entry key="M5" value="6.490974398446247" />
-      <entry key="M10" value="6.736847919286342" />
-      <entry key="M15" value="6.822577500876943" />
-      <entry key="M30" value="6.910277258637027" />
-      <entry key="H1" value="6.954882396027452" />
-      <entry key="H2" value="6.977376714321029" />
-      <entry key="H4" value="6.988672182729323" />
-      <entry key="D1" value="6.9981097794487885" />
-      <entry key="W1" value="6.999729913306472" />
+      <entry key="MS100" value="1.0000002757759532" />
+      <entry key="MS500" value="1.0487653425108565" />
+      <entry key="S2" value="1.4699242097087213" />
+      <entry key="S5" value="1.7392836950151944" />
+      <entry key="S10" value="1.859816082086858" />
+      <entry key="S30" value="1.950901057118937" />
+      <entry key="S60" value="1.9772977056844117" />
+      <entry key="M2" value="2.1723030040591897" />
+      <entry key="M5" value="4.943003004857428" />
+      <entry key="M10" value="9.846823655043345" />
+      <entry key="M15" value="12.993531443104992" />
+      <entry key="M30" value="17.498558295499908" />
+      <entry key="H1" value="20.448836370059173" />
+      <entry key="H2" value="22.141737698560174" />
+      <entry key="H4" value="23.049164155231704" />
+      <entry key="D1" value="23.83842054182994" />
+      <entry key="W1" value="23.976839900310786" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,23 +69,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9961245140749472" />
-      <entry key="MS500" value="1.5383980251696057" />
-      <entry key="S2" value="1.859316504756665" />
-      <entry key="S5" value="2.042510377652342" />
-      <entry key="S10" value="2.4722738701572635" />
-      <entry key="S30" value="3.9311369363038353" />
-      <entry key="S60" value="5.008497636184319" />
-      <entry key="M2" value="5.843884843948758" />
-      <entry key="M5" value="6.490696179045102" />
-      <entry key="M10" value="6.736699654929435" />
-      <entry key="M15" value="6.822476500409465" />
-      <entry key="M30" value="6.910225647167581" />
-      <entry key="H1" value="6.954856306236381" />
-      <entry key="H2" value="6.977363597615958" />
-      <entry key="H4" value="6.988665606324054" />
-      <entry key="D1" value="6.99810868086536" />
-      <entry key="W1" value="6.999729756304255" />
+      <entry key="MS100" value="0.9201879079329378" />
+      <entry key="MS500" value="1.0315960496562753" />
+      <entry key="S2" value="1.4641481485467653" />
+      <entry key="S5" value="1.7365973699558996" />
+      <entry key="S10" value="1.8583888787102651" />
+      <entry key="S30" value="1.9504041479382646" />
+      <entry key="S60" value="1.9770188153362733" />
+      <entry key="M2" value="2.171116136196581" />
+      <entry key="M5" value="4.937200580212952" />
+      <entry key="M10" value="9.83992949446522" />
+      <entry key="M15" value="12.987391149270781" />
+      <entry key="M30" value="17.494454628210256" />
+      <entry key="H1" value="20.446463750170317" />
+      <entry key="H2" value="22.140461960878472" />
+      <entry key="H4" value="23.048502673093957" />
+      <entry key="D1" value="23.83830690342754" />
+      <entry key="W1" value="23.97682358170612" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -148,5 +145,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: añadido pdf diapositiva instalacion y añadido .md errores-instalacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: añadido pdf diapositiva instalacion y añadido .md errores-instalacion" />
   </component>
 </project>
