@@ -25,3 +25,4 @@ Miguel Ángel (Administrador General y Técnico): Superusuario con plenos derech
 
 Grupo de Seguridad Personalizado: Creado desde el modo desarrollador bajo la denominación Torves Tech / Comercial Junior, configurando de forma 
 granular los derechos de acceso sobre modelos (Lectura, Escritura, Creación permitidas; Eliminación denegada).
+Aqui tenemos el video: https://youtu.be/O2ZORx_EVgk
